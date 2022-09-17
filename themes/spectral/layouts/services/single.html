@@ -1,0 +1,23 @@
+							{{- define "innerContent" }}
+							<section>
+								{{ .Content }}
+							</section>
+							{{- with .Site.GetPage "section" "testimonials" }}
+							{{- $page := . }}
+							{{- with where .Pages ".Params.categories" "intersect" $.Params.categories }}
+							<section>
+								<h2>{{ $page.LinkTitle }}</h2>
+								{{- partial "testimonials" (dict "Pages" . "HeadingLevel" 3) }}
+							</section>
+							{{- end }}
+							{{- end }}
+							{{- with .Site.GetPage "section" "posts" }}
+							{{- $page := . }}
+							{{- with where .Pages ".Params.categories" "intersect" $.Params.categories }}
+							<section>
+								<h2>{{ $page.LinkTitle }}</h2>
+								{{- partial "posts" (dict "Pages" . "HeadingLevel" 3) }}
+							</section>
+							{{- end }}
+							{{- end }}
+							{{- end }}
