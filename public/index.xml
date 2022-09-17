@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.V.Guillaumon</title>
+    <link>http://pedroguillaumon.github.io/</link>
+    <description>Recent content on P.V.Guillaumon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://pedroguillaumon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://pedroguillaumon.github.io/contact/contact/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://pedroguillaumon.github.io/contact/contact/</guid>
+      <description>pedro.guillaumon AT lngs.infn.it</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://pedroguillaumon.github.io/research/research/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://pedroguillaumon.github.io/research/research/</guid>
+      <description>Research Expertise and Interests Neutrino Physics Dark Matter Nuclear and Particle Astrophysics Beyond Standard Model Other Interests Cryogenic Calorimeters Data Analysis Machine Learning Current Research Focus Cryogenic Underground Observatory for Rare Events (CUORE): a large-scale bolometric detector designed to search for the neutrinoless double beta decay of 130Te Cuore Upgrade with Particle Identification (CUPID): is a project for the experimental search of 0νββ decay of 100Mo using isotopically enriched Li2MoO4 scintillating crystals operated as cryogenic calorimeters Cryogenic Rare Event Search with Superconducting Thermometers (CRESST): bolometric detectors designed to search for WIMP dark matter particles via their elastic scattering off nuclei Recent Publications Optimization of the first CUPID detector module K.</description>
+    </item>
+    
+  </channel>
+</rss>
