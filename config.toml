@@ -3,7 +3,6 @@ languageCode = 'en-us'
 defaultContentLanguage = "en"
 title = 'P.V.Guillaumon'
 theme = "spectral-master"
-publishDir = "docs"
 
 
 
