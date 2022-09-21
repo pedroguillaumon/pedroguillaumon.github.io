@@ -1,4 +1,4 @@
-baseURL = 'http://pedroguillaumon.github.io/'
+baseURL = 'https://pedroguillaumon.github.io/'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
 title = 'P.V.Guillaumon'
@@ -64,12 +64,12 @@ enable = true
 [[params.two.section]]
 img = "img/pic01.jpg"
 title = 'Nuclear and Particle Astrophysicist'
-body = 'I am interested in understanding the fundamentals of our Universe. Some of those questions I got involved are related to the mass of the neutrino and the nature of dark matter. Also, about the origin of the heavy elements in the Universe.'
+body = 'I am interested in understanding the fundamentals of our Universe. Some of the questions I got involved are related to the mass of the neutrino and the nature of dark matter. Also, about the origin of the heavy elements in the Universe.'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
 title = 'Medical Physics'
-body = 'I also collaborated with medical physics, specially with developments of new isotopes to threat cancer. As a physicist it is important to help the development of our societ in more direct ways.'
+body = 'I also collaborated with medical and applied physicists, especially with the development of new isotopes to treat cancer and trace element analysis. As a physicist it is important to help the development of our society in more direct ways.'
 
 [params.three]
 enable = true

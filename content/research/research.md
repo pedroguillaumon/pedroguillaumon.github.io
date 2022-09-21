@@ -24,7 +24,7 @@ categories = [
 * Machine Learning
 
 #### Current Research Focus
-* *Cryogenic Underground Observatory for Rare Events (CUORE):* a large-scale bolometric detector designed to search for the neutrinoless double beta decay of 130Te
+* *Cryogenic Underground Observatory for Rare Events (CUORE):* a large-scale bolometric detector designed to search for the neutrinoless double beta decay (0νββ) of 130Te
 * *Cuore Upgrade with Particle Identification (CUPID):* is a project for the experimental search of 0νββ decay of 100Mo using isotopically enriched Li2MoO4 scintillating crystals operated as cryogenic calorimeters
 * *Cryogenic Rare Event Search with Superconducting Thermometers (CRESST):*  bolometric detectors designed to search for WIMP dark matter particles via their elastic scattering off nuclei
 
@@ -49,7 +49,7 @@ M. Lee, E.B. Norman, ..., P.V. Guillaumon et al \
 Applied Radiation and Isotopes 181:110098 (2022)
 
 ## Invited Talks
-* Autumn 2022. Recent progress on BSM and dark matter searches in CUORE.International conference PUMA22 Probing the Universe with Multimessenger Astrophysics
+* Autumn 2022. Recent progress on BSM and dark matter searches in CUORE. International Conference PUMA22 Probing the Universe with Multimessenger Astrophysics, Italy.
 * Spring 2014. From Earth’s Origin to the Extinction of Dinosaurs: What we can learn from volcanic rocks analysis. Federal Institute at Caraguatatuba, Math. Depart., Brazil.
 
 ## In the News
