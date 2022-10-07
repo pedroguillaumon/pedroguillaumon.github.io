@@ -1,11 +1,6 @@
 +++
-author = "P.V. Guillaumon"
+aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Contact"
-description = "Contact"
-tags = [
-    "contact",
-]
-categories = [
-    "contact",
-]
+author = "P.V. Guillaumon"
+tags = ["index"]
 +++

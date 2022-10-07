@@ -25,7 +25,7 @@ url = '/research/research'
 title = "Research"
 
 [[params.menu.main]]
-url = '/'
+url = '/cv/cv'
 title = "CV"
 
 [[params.menu.main]]
@@ -62,14 +62,21 @@ label = "Ipsum"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Nuclear and Particle Astrophysicist'
-body = 'I am interested in understanding the fundamentals of our Universe. Some of the questions I got involved are related to the mass of the neutrino and the nature of dark matter. Also, about the origin of the heavy elements in the Universe.'
+img = "../img/cuore.jpg"
+title = 'Neutrino and Dark Matter'
+body = 'I am interested in understanding the fundamentals of our Universe. Some of the questions I got involved are related to the mass of the neutrino and the nature of dark matter. [img](https://cuore.lngs.infn.it/en/news)'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
+img = "../img/Keplers_supernova.jpg"
+title = 'Nuclear and Particle Astrophysics'
+body = 'Also, I am interest in the origin of the heavy elements in the Universe. From the experimental point of view, I am interested mainly in measurements of cross sections and nuclear structure properties of isotopes that can be produced in stars. Futhermore, I am also involved in simulations of the r-process to understand better what are the stellar conditions to produce them. [img](https://researchfeatures.com/galactic-nucleosynthesis/)'
+
+
+
+[[params.two.section]]
+img = "../img/actinium.jpg"
 title = 'Medical Physics'
-body = 'I also collaborated with medical and applied physicists, especially with the development of new isotopes to treat cancer and trace element analysis. As a physicist it is important to help the development of our society in more direct ways.'
+body = 'I also collaborated with medical and applied physicists, especially with the development of new isotopes to treat cancer and trace element analysis. As a physicist it is important to help the development of our society in more direct ways. [img](https://science.psu.edu/news/Cotruvo10-2021-Actinium)'
 
 [params.three]
 enable = true
