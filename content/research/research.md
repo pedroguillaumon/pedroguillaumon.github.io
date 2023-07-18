@@ -29,27 +29,37 @@ categories = [
 * *Cryogenic Rare Event Search with Superconducting Thermometers (CRESST):*  bolometric detectors designed to search for WIMP dark matter particles via their elastic scattering off nuclei
 
 ## Recent Publications
-* *Optimization of the first CUPID detector module* \
+* *A first test of CUPID prototypal light detectors with NTD‑Ge sensors in a pulse‑tube cryostat* \
 K. Alfonso, A. Armatol, C. Augier, ..., P.V. Guillaumon et al.\
-The European Physical Journal C 82:810 (2022)
+Journal of Instrumentation 18:06 (2023)
+* *Results on sub‑GeV Dark Matter from a 10 eV Threshold CRESST-III Silicon Detector* \
+G. Angloher, S. Banik, G. Benato, ..., P.V. Guillaumon et al. \
+Phys. Rev. D 107:12 (2023)
+* *Twelve-crystal prototype of LiMoO scintillating bolometers for CUPID and CROSS experiments* \
+K. Alfonso, A. Armatol, C. Augier, ..., P.V. Guillaumon et al.\
+Journal of Instrumentation 18:06 (2023)
+* *Observation of a low energy nuclear recoil peak in the neutron calibration data of the CRESST-III Experiment* \
+G. Angloher, S. Banik, G. Benato, ..., P.V. Guillaumon et al. \
+arxiv:2303.15315 (2023)
+* *Characterization of a large mass archaeological lead-based cryogenic detectors for the RES-NOVA experiment* \
+J.W. Beeman, G. Benato, C. Bucci, ..., P.V. Guillaumon et al \
+ Applied Radiation and Isotopes 194:110704 (2023)
 * *Latest observations on the low energy excess in CRESST-III* \
 G. Angloher, S. Banik, G. Benato, ..., P.V. Guillaumon et al. \
 13th International Workshop on the Identification of Dark Matter 2022 (IDM2022), arXiv:2207.09375
 * *Testing spin-dependent dark matter interactions with lithium aluminate targets in CRESST-III* \
 G. Angloher, S. Banik, G. Benato, ..., P.V. Guillaumon et al. \
 arXiv:2207.07640
-* *Characterization of a large mass archaeological lead-based cryogenic detectors for the RES-NOVA experiment* \
-J.W. Beeman, G. Benato, C. Bucci, ..., P.V. Guillaumon et al \
-arXiv:2206.05116
-* *Radiopurity of a kg-scale PbWO4 cryogenic detector produced from archaeological Pb for the RES-NOVA experiment* \
-J.W. Beeman, G. Benato, C. Bucci, ..., P.V. Guillaumon et al \
-The European Physical Journal C 82:692 (2022)
 * *Fast neutron activation of ubiquitous materials* \
 M. Lee, E.B. Norman, ..., P.V. Guillaumon et al \
 Applied Radiation and Isotopes 181:110098 (2022)
 
 ## Invited Talks
+* Autumn 2022. The CUORE experiment. Invited talk. Applications of Superconducting Electronics and Detectors Workshop,
+JeffersonLab, USA.
 * Autumn 2022. Recent progress on BSM and dark matter searches in CUORE. International Conference PUMA22 Probing the Universe with Multimessenger Astrophysics, Italy.
+* Winter 2021. From Nuclear Physics to Astrophysics. A few experiments. Invited talk. Quark Matter Research Center, Institute
+of Modern Physics, China.
 * Spring 2014. From Earth’s Origin to the Extinction of Dinosaurs: What we can learn from volcanic rocks analysis. Federal Institute at Caraguatatuba, Math. Depart., Brazil.
 
 ## In the News
