@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-You can download my CV [here](../CV_PVGuillaumon_October_2022.pdf)
+You can download my CV [here](../CV_Pedro_July_2023-2.pdf)
 
 
 
