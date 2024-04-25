@@ -9,7 +9,7 @@ theme = "spectral-master"
 [params]
 fancyTitle = "Dr. Pedro V. Guillaumon" # title for frontpage, may include image
 copyright = "P.V.Guillaumon"
-description = 'Researcher at Max Planck Institut for Physics (Werner Heisenberg Institut) - MPP'
+description = 'Researcher at Max Planck Institut for Physics \\ (Werner Heisenberg Institut) - MPP'
 startbuttonText = "Research"
 startbuttonLink = "/research/research"
 body_is_markdown = true
